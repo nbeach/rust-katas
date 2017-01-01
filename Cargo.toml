@@ -1,0 +1,6 @@
+[package]
+name = "rust-katas"
+version = "0.1.0"
+authors = ["Nicholas Beach <nicholascbeach@gmail.com>"]
+
+[dependencies]
